@@ -78,7 +78,7 @@ Clone the repository and run `npm update` for all the dependencies to be install
 sudo apt-get install build-essential libsodium-dev npm
 sudo npm install n -g
 sudo n stable
-git clone https://github.com/poolbcashplus/z-nomp-bitcoin-cashplus.git z-nomp-bitcoin-gold
+git clone https://github.com/poolbcashplus/z-nomp-bitcoin-cashplus.git z-nomp-bitcoin-cashplus
 cd z-nomp-bitcoin-cashplus
 npm update
 npm install
