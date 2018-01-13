@@ -19,7 +19,7 @@ If your pool uses Z-NOMP let us know and we will list your website here.
 
 ### Some pools using Z-NOMP or node-stratum-module:
 
-poolbcp.net
+http://poolbcp.net
 
 https://pool.cryptobroker.io/zcl Running MPOS and 0.5% of the fee goes to the Zclassic donation fund! 200+ blocks have been found as well! 
 
@@ -78,7 +78,7 @@ Clone the repository and run `npm update` for all the dependencies to be install
 sudo apt-get install build-essential libsodium-dev npm
 sudo npm install n -g
 sudo n stable
-git clone https://github.com/poolbcashplus/z-nomp-bitcoin-cashplus.git z-nomp-bitcoin-gold
+git clone https://github.com/poolbcashplus/z-nomp-bitcoin-cashplus.git z-nomp-bitcoin-cashplus
 cd z-nomp-bitcoin-cashplus
 npm update
 npm install
