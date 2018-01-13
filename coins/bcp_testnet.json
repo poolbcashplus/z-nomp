@@ -1,0 +1,6 @@
+{
+  "name": "Testcoin Cash Plus",
+  "symbol": "BCP",
+  "algorithm": "equihash",
+  "txfee": 0.000005
+}
